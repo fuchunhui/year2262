@@ -1,7 +1,11 @@
 # year2262
 
-In China, we have two Chinese New Year.
+The Year 2262 in China, we will have two Chinese New Year.
 
-when it comes, have said goodbye to the world.
+when it comes, we have said goodbye to the world.
 
-maybe this can help.
+perhaps you can say something and maybe this repo can help.
+
+
+### 
+论这个库存活到2262年的概率有多大？（好奇，github对于历史库的管理手段是什么）
